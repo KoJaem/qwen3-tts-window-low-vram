@@ -1,0 +1,19 @@
+# Core
+torch>=2.1.0
+
+# Transformers / Models
+transformers>=4.39.0
+qwen-tts
+
+# Audio
+soundfile
+librosa>=0.10.0
+
+# Hugging Face
+huggingface-hub>=0.20.0
+
+# CLI
+click>=8.1.0
+
+# Utils
+numpy
